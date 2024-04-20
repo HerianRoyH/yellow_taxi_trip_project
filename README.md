@@ -34,6 +34,6 @@ https://colab.research.google.com/drive/1XitKj1SzgqASOyk7dFzO2GPqnp6qd_7a?usp=sh
 2. Utilize the output for downstream analysis or reporting.
 
 # Discussion
-The project leverages Google Colab notebooks for data extraction, transformation, and ingestion into Google BigQuery. Challenges encountered during development include handling authentication with Google Cloud Platform, parsing HTML content from the NYC TLC website, and ensuring data quality and consistency.
+The project leverages Google Colab notebooks for data extraction, transformation, and ingestion into Google BigQuery. Challenges encountered during development include handling authentication with Google Cloud Platform, parsing HTML content from the NYC TLC website, ensuring data quality and consistency, and sharing of BigQuery project with unknown viewers or users.
 
-Assumptions made during development include the availability of consistent and reliable data from the NYC TLC website and compatibility of extracted data with BigQuery schema requirements.
+Assumptions made during development include the availability of consistent and reliable data from the NYC TLC website and the compatibility of extracted data with BigQuery schema requirements.
